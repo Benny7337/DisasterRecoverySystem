@@ -26,7 +26,7 @@ It simulates a **fire accident** where local files are lost, and then shows how 
 - `client_secret.json` – keep this private!
 
 ## 🎬 Demo
-[Add your 1-min video link here]
+[I'll attach it later]
 
 ---
 ✅ Made with ❤️ for my college project
